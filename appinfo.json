@@ -1,0 +1,21 @@
+{
+    "appKeys": {
+        "dummy": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "MakeAwesomeHappen",
+    "longName": "timer",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "timer",
+    "uuid": "f98172f2-07b7-4a2d-a95a-44442c1bf5b0",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
